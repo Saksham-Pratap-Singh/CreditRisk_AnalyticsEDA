@@ -1,6 +1,3 @@
-Based on my analysis of your [CreditRisk_AnalyticsEDA repository](https://github.com/Saksham-Pratap-Singh/CreditRisk_AnalyticsEDA), here's a comprehensive and structured README.md file:
-
-```markdown
 # 🎯 Credit Risk Analytics - Exploratory Data Analysis
 
 Comprehensive EDA project analyzing credit risk patterns to predict loan default probability using real-world financial data. This project demonstrates advanced data analysis techniques, feature engineering, and statistical insights for credit risk assessment.
